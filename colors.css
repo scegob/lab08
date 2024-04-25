@@ -1,0 +1,85 @@
+    caption {
+        color:gray;
+    }
+
+    .colors {
+        text-align: center; 
+        border-spacing: 10px;  
+        font-family: arial;
+    }
+
+    .rgba-color1 { 
+        background-color: rgba(138, 193, 255, 1.0); 
+    }
+
+    .rgba-color2 { 
+        background-color: rgba(138, 193, 255, 0.9); 
+    }
+
+    .rgba-color3 { 
+        background-color: rgba(138, 193, 255, 0.8); 
+    }
+
+    .rgba-color4 { 
+        background-color: rgba(138, 193, 255, 0.7); 
+    }
+
+    .rgba-color5 { 
+        background-color: rgba(138, 193, 255, 0.6); 
+    }
+
+    .rgba-color6 { 
+        background-color: rgba(138, 193, 255, 0.5); 
+    }
+    .rgba-color7 { 
+        background-color: rgba(138, 193, 255, 0.4); 
+    }
+    .rgba-color8 { 
+        background-color: rgba(138, 193, 255, 0.3); 
+    }
+    .rgba-color9 { 
+        background-color: rgba(138, 193, 255, 0.2); 
+    }
+    .rgba-color10 { 
+        background-color: rgba(138, 193, 255, 0.1); 
+    }
+
+    .hsla-color1 {
+        background-color: hsla(211.8, 100%, 77.1%, 1.0);
+    }
+
+    .hsla-color2 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.9);
+    }
+
+    .hsla-color3 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.8);
+    }
+
+    .hsla-color4 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.7);
+    }
+
+    .hsla-color5 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.6);
+    }
+
+    .hsla-color6 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.5);
+    }
+
+    .hsla-color7 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.4);
+    }
+
+    .hsla-color8 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.3);
+    }
+
+    .hsla-color9 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.2);
+    }
+
+    .hsla-color10 {
+        background-color: hsla(211.8, 100%, 77.1%, 0.1);
+    }
