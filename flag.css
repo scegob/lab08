@@ -1,0 +1,27 @@
+    .starcell{
+        background-color:navy;
+    }
+
+    #stars{
+        color:white;
+    }
+    .red_stripe{
+        background-color:red;
+        height: 30px;
+        width: 592px;
+    }
+
+    .white_stripe{
+        background-color:white;
+        height: 30px;
+        width: 592px;
+    }
+
+    .flag {
+    border-spacing: 0px;
+    }
+
+    body{ 
+        /* height: $flag-height;
+        aspect-ratio:$aspect-ratio; */
+    }
